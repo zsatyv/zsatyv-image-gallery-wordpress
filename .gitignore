@@ -1,0 +1,5 @@
+.DS_Store
+*.log
+wp-config-local.php
+.vscode/
+.idea/
